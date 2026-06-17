@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: transparent;
+}
+
+#cat {
+    position: absolute;
+    width: 128px;
+    image-rendering: pixelated;
+    user-select: none;
+    pointer-events: none;
+}
